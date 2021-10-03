@@ -1,0 +1,81 @@
+/* -------------CLASS selectors--------- */
+.about_me {
+  background: url("../images/bg-about_me.jpg");
+  background-repeat: no-repeat;
+  background-size: 1520px 725px;
+  color: white;
+  height: 725px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.contact_me{
+  height: 725px;
+}
+
+.header {
+  background: url("../images/bg-header.jpeg");
+  background-repeat: no-repeat;
+  background-size: 1560px 725px;
+  color: black;
+  height: 725px;
+}
+
+.footer {
+  background-color: aliceblue;
+  margin-bottom: 0px;
+}
+
+.motivation {
+  height: 725px;
+}
+
+.profile {
+  padding-top: 120px;
+}
+
+/* -------------ID selectors--------- */
+#about_me_h1 {
+  margin-top: 0px;
+  padding-top: 120px;
+}
+
+#about_me_interest {
+  padding-left: 30px;
+}
+
+#contact_me_heading{
+  background-color: black;
+  color: white;
+  height: 80px;
+  margin-top: 0px;
+  padding-top: 40px;
+}
+
+#div_3_heading {
+  margin-top: 0px;
+  padding-top: 60px;
+}
+
+#email{
+  display: inline;
+}
+
+#footer_copyright {
+  padding-bottom: 20px;
+  margin-bottom: 0px;
+}
+
+/* -------------TAG selectors--------- */
+a{
+  text-decoration: none;
+}
+
+body {
+  margin: 0;
+}
+
+ul,
+ol {
+  text-align: left;
+}
