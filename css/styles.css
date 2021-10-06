@@ -9,7 +9,7 @@
   padding-right: 200px;
 }
 
-.contact_me{
+.contact_me {
   height: 725px;
 }
 
@@ -44,7 +44,7 @@
   padding-left: 30px;
 }
 
-#contact_me_heading{
+#contact_me_heading {
   background-color: black;
   color: white;
   height: 80px;
@@ -57,7 +57,7 @@
   padding-top: 60px;
 }
 
-#email{
+#email {
   display: inline;
 }
 
@@ -67,7 +67,7 @@
 }
 
 /* -------------TAG selectors--------- */
-a{
+a {
   text-decoration: none;
 }
 
