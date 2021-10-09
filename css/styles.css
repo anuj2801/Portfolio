@@ -47,9 +47,9 @@
 #contact_me_heading {
   background-color: black;
   color: white;
-  height: 80px;
+  height: 100px;
   margin-top: 0px;
-  padding-top: 40px;
+  padding-top: 30px;
 }
 
 #div_3_heading {
@@ -64,6 +64,11 @@
 #footer_copyright {
   padding-bottom: 20px;
   margin-bottom: 0px;
+}
+
+#profile_img {
+  padding-left: auto;
+  padding-right: auto;
 }
 
 /* -------------TAG selectors--------- */
