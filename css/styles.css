@@ -14,10 +14,10 @@
 }
 
 .header {
-  background: url("../images/bg-header.jpeg");
+  background: url("../images/bg-header.jpg");
   background-repeat: no-repeat;
   background-size: 1560px 725px;
-  color: black;
+  color:white;
   height: 725px;
 }
 
@@ -28,10 +28,6 @@
 
 .motivation {
   height: 725px;
-}
-
-.my_navbar {
-  position: fixed;
 }
 
 /* -------------ID selectors--------- */
@@ -64,6 +60,11 @@
 #footer_copyright {
   padding-bottom: 20px;
   margin-bottom: 0px;
+}
+
+#my_navbar {
+  position: fixed;
+  /* background-color: white; */
 }
 
 #profile_pic {
