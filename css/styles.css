@@ -30,8 +30,8 @@
   height: 725px;
 }
 
-.profile {
-  padding-top: 120px;
+.my_navbar {
+  position: fixed;
 }
 
 /* -------------ID selectors--------- */
@@ -66,9 +66,8 @@
   margin-bottom: 0px;
 }
 
-#profile_img {
-  padding-left: auto;
-  padding-right: auto;
+#profile_pic {
+  padding-top: 120px;
 }
 
 /* -------------TAG selectors--------- */
