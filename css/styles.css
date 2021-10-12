@@ -1,12 +1,7 @@
 /* -------------CLASS selectors--------- */
+
 .about_me {
-  background: url("../images/bg-about_me.jpg");
-  background-repeat: no-repeat;
-  background-size: 1520px 725px;
-  color: white;
-  height: 725px;
-  padding-left: 200px;
-  padding-right: 200px;
+  font-size: 1.2rem;
 }
 
 .contact_me {
@@ -14,20 +9,7 @@
 }
 
 .header {
-  background: url("../images/bg-header.jpg");
-  background-repeat: no-repeat;
-  background-size: 1560px 725px;
-  color: white;
-  height: 725px;
-}
-
-.footer {
-  background-color: aliceblue;
-  margin-bottom: 0px;
-}
-
-.motivation {
-  height: 725px;
+  color: black;
 }
 
 /* -------------ID selectors--------- */
@@ -44,13 +26,14 @@
   background-color: black;
   color: white;
   height: 100px;
-  margin-top: 0px;
+  margin-top: 50px;
   padding-top: 30px;
 }
 
 #div_3_heading {
-  margin-top: 0px;
-  padding-top: 60px;
+  margin-top: 60px;
+  margin-bottom: 30px;
+  padding-top: 20px;
 }
 
 #email {
@@ -60,11 +43,6 @@
 #footer_copyright {
   padding-bottom: 20px;
   margin-bottom: 0px;
-}
-
-#my_navbar {
-  position: fixed;
-  /* background-color: white; */
 }
 
 #profile_pic {
