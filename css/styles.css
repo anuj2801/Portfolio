@@ -2,6 +2,10 @@
 
 .about_me {
   font-size: 1.2rem;
+  padding: 0 15% 5% 15%;
+  background: url(../images/bg-aboutme.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .contact_me {
@@ -9,7 +13,10 @@
 }
 
 .header {
-  color: black;
+  color: white;
+  background: url(../images/bg-header.jpg);
+  background-size: cover;
+  padding-bottom: 10%;
 }
 
 /* -------------ID selectors--------- */
